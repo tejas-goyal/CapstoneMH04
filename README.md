@@ -1,2 +1,2 @@
 # CapstoneMH04
-iMAGE GENERATION (scene graph+image generation pipeline)
+IMAGE GENERATION (scene graph+image generation pipeline)
