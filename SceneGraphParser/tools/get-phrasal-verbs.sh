@@ -1,9 +1,4 @@
-#! /bin/sh
-#
-# get-phrasal-verbs.sh
-# Copyright (C) 2018 Jiayuan Mao <maojiayuan@gmail.com>
-#
-# Distributed under terms of the MIT license.
+
 
 set -x
 

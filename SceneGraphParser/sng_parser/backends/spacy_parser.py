@@ -1,6 +1,4 @@
-# This file is part of SceneGraphParser.
-# Distributed under terms of the MIT license.
-# https://github.com/vacancy/SceneGraphParser
+
 
 from copy import deepcopy
 from .. import database

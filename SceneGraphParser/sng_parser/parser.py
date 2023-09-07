@@ -1,14 +1,3 @@
-#! /usr/bin/env python3
-# -*- coding: utf-8 -*-
-# File   : parser.py
-# Author : Jiayuan Mao
-# Email  : maojiayuan@gmail.com
-# Date   : 08/21/2018
-#
-# This file is part of SceneGraphParser.
-# Distributed under terms of the MIT license.
-# https://github.com/vacancy/SceneGraphParser
-
 __all__ = ['Parser', 'get_default_parser', 'parse']
 
 

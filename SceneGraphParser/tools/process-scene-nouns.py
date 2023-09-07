@@ -1,13 +1,4 @@
-#! /usr/bin/env python3
-# -*- coding: utf-8 -*-
-# File   : process-scene-nouns.py
-# Author : Jiayuan Mao
-# Email  : maojiayuan@gmail.com
-# Date   : 08/23/2018
-#
-# This file is part of SceneGraphParser.
-# Distributed under terms of the MIT license.
-# https://github.com/vacancy/SceneGraphParser
+
 
 import sys
 import spacy

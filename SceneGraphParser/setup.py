@@ -1,12 +1,4 @@
-#! /usr/bin/env python3
-# -*- coding: utf-8 -*-
-# File   : setup.py
-# Author : Jiayuan Mao
-# Email  : maojiayuan@gmail.com
-# Date   : 12/30/2021
-#
-# This file is part of SceneGraphParser.
-# Distributed under terms of the MIT license.
+
 
 from setuptools import setup, find_packages
 

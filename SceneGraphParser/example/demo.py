@@ -1,13 +1,4 @@
-#! /usr/bin/env python3
-# -*- coding: utf-8 -*-
-# File   : demo.py
-# Author : Jiayuan Mao
-# Email  : maojiayuan@gmail.com
-# Date   : 08/22/2018
-#
-# This file is part of SceneGraphParser.
-# Distributed under terms of the MIT license.
-# https://github.com/vacancy/SceneGraphParser
+
 
 """
 A small demo for the scene graph parser.
